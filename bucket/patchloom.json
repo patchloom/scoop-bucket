@@ -1,16 +1,16 @@
 {
-    "version": "0.22.0",
+    "version": "0.23.0",
     "description": "Structured file editing CLI for AI agents: search, replace, patch, doc, md, AST, and MCP.",
     "homepage": "https://github.com/patchloom/patchloom",
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/patchloom/patchloom/releases/download/patchloom-v0.22.0/patchloom-x86_64-pc-windows-msvc.zip",
-            "hash": "7f8b5be73c351c348fe7f7d09a163796250aec0fcd83cbe371ce8bb2481e157a"
+            "url": "https://github.com/patchloom/patchloom/releases/download/patchloom-v0.23.0/patchloom-x86_64-pc-windows-msvc.zip",
+            "hash": "fcef72f8d38ce3c3e729bfa7379a9666c904f9816c033819547f7064d789f398"
         },
         "arm64": {
-            "url": "https://github.com/patchloom/patchloom/releases/download/patchloom-v0.22.0/patchloom-aarch64-pc-windows-msvc.zip",
-            "hash": "6f1e63401d62647ff6b6fd676e5d8d23d09491afee41d788ea4b3e813bae49ad"
+            "url": "https://github.com/patchloom/patchloom/releases/download/patchloom-v0.23.0/patchloom-aarch64-pc-windows-msvc.zip",
+            "hash": "231714488baeaecd73669aecb923f5bbcb2ef4c09e6b3d3bce332c49e826acc3"
         }
     },
     "bin": "patchloom.exe",
